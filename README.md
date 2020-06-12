@@ -11,5 +11,5 @@ Research has shown that concepts of Bayesian persuasion and Wardrop equilibrium 
 
 
 This study aims at extending upon an existing mathematical model developed with the intention of alleviating traffic congestion. In particular, the research focuses on translating an optimization problem into a functional algorithm.
-In order to achieve said objective, the programming language \MATLAB is used in combination with a brute force method that attempts to solve a non-convex optimization problem.
+In order to achieve said objective, the programming language MATLAB is used in combination with a brute force method that attempts to solve a non-convex optimization problem.
 Results give interesting insights into how numerically efficient methods could be constructed to find the optimum solution. In particular, a clear repetitive structure of both the optimal objective function value and the feasibility constraints at the optimum was found.
