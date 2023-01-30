@@ -3,6 +3,8 @@ This repository is used to collect the MATLAB files created to solve a non-conve
 article of Zhu and Savla (2018) [On the stability of optimal bayesian persuasion strategy under a mistrust dynamics in routing games. 
 In 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton), pages 92–99. IEEE.].
 
+Full Thesis [Here](https://github.com/gabriansa/Bachelor-Thesis/blob/master/Thesis_Final_Version.pdf)
+
 # Abstract
 
 The current focus of navigation apps is to recommend drivers the fastest road to reach a specific destination. While pleasing the individual driver, this behavior contributes to higher levels of traffic congestion. In other words, navigation apps focus on the selfish needs of users and do not align with social welfare. 
